@@ -1,0 +1,14 @@
+{
+    "entryFile": "app/app.ts",
+    "noImplicitAdditionalProperties": "throw-on-extras",
+    "controllerPathGlobs": ["app/*Controller.ts"],
+    "spec": {
+        "outputDirectory": ".",
+        "specVersion": 3,
+        "yaml": true
+    },
+    "routes": {
+        "routesDir": "app/",
+        "middleware": "koa"
+    }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "refenum-tsoa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@koa/router": "^10.0.0",
+    "koa": "^2.13.1",
+    "tsoa": "^3.7.0",
+    "typescript": "^4.2.4"
+  },
+  "devDependencies": {
+    "@types/koa": "^2.13.1",
+    "@types/koa__router": "^8.0.4",
+    "@types/node": "^15.0.2",
+    "ts-node": "^9.1.1"
+  }
+}
